@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "希望は捨てない",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T20:29:47.785285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "希望は捨てない",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/01_希望は捨てない_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "希望は捨てない",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_希望は捨てない_サンボマスター.txt"
+    }
+  ]
+}
